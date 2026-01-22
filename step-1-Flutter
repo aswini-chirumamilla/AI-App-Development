@@ -4,3 +4,4 @@ install  ----   https://flutter.dev/
 click on get started
 git is prerequisite for flutter install
 copy the download paste in c/src/flutter
+add C:\src\flutter\bin in env variables user variables path
