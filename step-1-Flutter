@@ -1,5 +1,7 @@
 ### Flutter for windows
-
+prerequisties:
+https://developer.android.com/studio
+enable while installing andriod sdk, andriod sdk platform, andriod virtual devics, performance  intel haxm/hypervisor)
 install  ----   https://flutter.dev/
 click on get started
 git is prerequisite for flutter install
